@@ -54,7 +54,7 @@ set backspace=2         " make backspace work like most other apps
 "set bs=2                " allow backspacing over everything in insert mode
 "set backspace=indent,eol,start
 
-set cursorline
+" set cursorline
 set nocompatible        " Get all the VIM features
 set wildmenu            " use a scrollable menu for filename completions
 set wildmode=list:longest,full
